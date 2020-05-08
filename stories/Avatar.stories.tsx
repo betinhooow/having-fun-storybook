@@ -8,8 +8,8 @@ const pageTestId = "storybook";
 storiesOf('Avatar', module)
   .add('Default', () => <Avatar 
     id="1"
-    name="Beto" 
-    nickname="Betinhooow"
+    name="Name" 
+    nickname="Nickname"
     deleteContact={()=>{}} 
     editContact={()=>{}} 
     testId={pageTestId}
