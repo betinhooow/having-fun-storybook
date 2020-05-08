@@ -1,7 +1,7 @@
 node_modules
 src
 tsconfig.json
-
+storybook-static
 .github
 __tests__
 yarn-error.log
